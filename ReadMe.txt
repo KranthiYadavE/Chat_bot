@@ -1,3 +1,6 @@
+"I have not included the trained model due to size issues" please train the model befor running"
+
+
 How to Launch and Use EmotiveChat
 
 1. Install Required Dependencies
