@@ -1,0 +1,127 @@
+2025-04-30 00:45:53,302 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-30 00:45:53,710 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-30 00:45:53,762 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-30 00:45:55,316 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-30 00:45:56,558 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-04-30 00:47:17,324 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-30 00:47:17,613 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-30 00:47:17,682 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-30 00:47:19,257 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-30 00:47:20,530 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-04-30 00:47:29,771 - INFO - User message: I'm a bit scared about my upcoming surgery.
+2025-04-30 00:47:29,915 - INFO - Detected emotion: fear (confidence: 0.98)
+2025-04-30 00:47:30,296 - INFO - Detected intents: ['statement']
+2025-04-30 00:47:30,304 - INFO - Bot response: It's natural to feel afraid sometimes. What's your biggest concern right now?
+2025-04-30 11:44:48,213 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-30 11:44:48,640 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-30 11:44:48,724 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-30 11:44:50,252 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-30 11:44:51,578 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-04-30 11:50:42,907 - INFO - User message: I just won the lottery! I'm so thrilled!
+2025-04-30 11:50:43,152 - INFO - Detected emotion: excitement (confidence: 0.63)
+2025-04-30 11:50:43,597 - INFO - Detected intents: ['achievement', 'statement', 'lottery']
+2025-04-30 11:50:43,599 - INFO - Detected lottery win scenario
+2025-04-30 11:50:43,599 - INFO - Bot response: Winning the lottery is definitely worth being excited about! Congratulations! Any big plans?
+2025-04-30 11:51:11,783 - INFO - Conversation saved to conversation_history_20250430_115111.json
+2025-04-30 11:51:22,924 - INFO - User message: My cat is sick, and I feel really down
+2025-04-30 11:51:23,117 - INFO - Detected emotion: sadness (confidence: 0.66)
+2025-04-30 11:51:23,592 - INFO - Detected intents: ['problem', 'statement', 'pet']
+2025-04-30 11:51:23,592 - INFO - Detected sick pet scenario
+2025-04-30 11:51:23,593 - INFO - Bot response: That's really sad about your pet. I understand how worried you must be. Have you been able to take them to the vet?
+2025-04-30 11:51:53,159 - INFO - User message: Did you hear about the new project? I'm quite curious to learn more
+2025-04-30 11:51:53,367 - INFO - Detected emotion: curiosity (confidence: 0.90)
+2025-04-30 11:51:53,824 - INFO - Detected intents: ['question', 'statement']
+2025-04-30 11:51:53,825 - INFO - Detected project curiosity scenario
+2025-04-30 11:51:53,825 - INFO - Bot response: I appreciate your curious nature! Asking questions is how we grow. What sparked your interest in this project?
+2025-04-30 11:52:08,308 - INFO - User message: What do you think about artificial intelligence?
+2025-04-30 11:52:08,472 - INFO - Detected emotion: curiosity (confidence: 0.53)
+2025-04-30 11:52:08,952 - INFO - Detected intents: ['question', 'opinion_request']
+2025-04-30 11:52:08,953 - INFO - Bot response: Hello there. How are you doing today?
+2025-04-30 11:52:14,233 - INFO - User message: Hello there! How are you today?
+2025-04-30 11:52:14,322 - INFO - Detected emotion: curiosity (confidence: 0.70)
+2025-04-30 11:52:14,792 - INFO - Detected intents: ['greeting', 'question']
+2025-04-30 11:52:14,792 - INFO - Bot response: Hi there. How's your day going?
+2025-04-30 11:54:02,670 - INFO - User message: My neighbor helped me fix my car when it broke down. I'm so grateful for their kindness
+2025-04-30 11:54:02,822 - INFO - Detected emotion: gratitude (confidence: 0.80)
+2025-04-30 11:54:03,244 - INFO - Detected intents: ['gratitude', 'question', 'statement', 'traffic']
+2025-04-30 11:54:03,245 - INFO - Detected gift gratitude scenario
+2025-04-30 11:54:03,245 - INFO - Bot response: That's wonderful! Receiving something thoughtful can really make a difference. How did they know what would be meaningful to you?
+2025-04-30 15:23:52,933 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-30 15:23:53,440 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-30 15:23:53,501 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-30 15:23:54,868 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-30 15:23:56,201 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-04-30 15:47:37,787 - INFO - User message: I just got a promotion at work!
+2025-04-30 15:47:38,333 - INFO - Detected emotion: neutral (confidence: 0.30)
+2025-04-30 15:47:38,952 - INFO - Detected intents: ['achievement']
+2025-04-30 15:47:38,956 - INFO - Bot response: Good news about {achievement}. Is this what you were hoping for?
+2025-04-30 15:47:53,374 - INFO - User message: I'm so sad, I lost my pet yesterday.
+2025-04-30 15:47:53,469 - INFO - Detected emotion: sadness (confidence: 0.83)
+2025-04-30 15:47:53,961 - INFO - Detected intents: ['problem', 'statement', 'pet']
+2025-04-30 15:47:53,961 - INFO - Detected sick pet scenario
+2025-04-30 15:47:53,962 - INFO - Bot response: That's really sad about your pet. I understand how worried you must be. Have you been able to take them to the vet?
+2025-05-02 19:30:50,560 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-05-02 19:30:50,948 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-05-02 19:30:51,012 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-05-02 19:30:52,492 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-05-02 19:30:53,734 - INFO - HTTP Request: GET https://cdn-media.huggingface.co/frpc-gradio-0.3/frpc_windows_amd64.exe "HTTP/1.1 200 OK"
+2025-05-02 19:31:23,188 - INFO - User message: I just won the lottery! I'm so thrilled!
+2025-05-02 19:31:23,448 - INFO - Detected emotion: excitement (confidence: 0.63)
+2025-05-02 19:31:24,058 - INFO - Detected intents: ['achievement', 'statement', 'lottery']
+2025-05-02 19:31:24,059 - INFO - Detected lottery win scenario
+2025-05-02 19:31:24,059 - INFO - Bot response: Winning the lottery is definitely worth being excited about! Congratulations! Any big plans?
+2025-05-02 19:31:58,434 - INFO - Conversation saved to conversation_history_20250502_193158.json
+2025-05-02 19:32:01,413 - INFO - User message: My cat is sick, and I feel really down.
+2025-05-02 19:32:01,496 - INFO - Detected emotion: sadness (confidence: 0.65)
+2025-05-02 19:32:01,976 - INFO - Detected intents: ['problem', 'statement', 'pet']
+2025-05-02 19:32:01,976 - INFO - Detected sick pet scenario
+2025-05-02 19:32:01,976 - INFO - Bot response: I'm sorry to hear about your sick cat. It's heartbreaking when our pets aren't well. What has the vet said?
+2025-05-02 19:32:32,836 - INFO - Conversation saved to conversation_history_20250502_193232.json
+2025-05-02 19:32:44,420 - INFO - User message: Someone cut me off in traffic this morning, and it made me so angry
+2025-05-02 19:32:44,684 - INFO - Detected emotion: anger (confidence: 0.90)
+2025-05-02 19:32:45,108 - INFO - Detected intents: ['traffic']
+2025-05-02 19:32:45,108 - INFO - Detected traffic incident scenario
+2025-05-02 19:32:45,114 - INFO - Bot response: Getting cut off in traffic is incredibly frustrating. I don't blame you for feeling angry about that. Did you make it to your destination safely?
+2025-05-02 19:33:07,493 - INFO - Conversation saved to conversation_history_20250502_193307.json
+2025-05-02 19:33:22,368 - INFO - User message: I have a big presentation tomorrow, and I'm incredibly nervous.
+2025-05-02 19:33:22,474 - INFO - Detected emotion: nervousness (confidence: 0.95)
+2025-05-02 19:33:22,889 - INFO - Detected intents: ['statement', 'presentation']
+2025-05-02 19:33:22,894 - INFO - Triggered strong emotional response for: presentation tomorrow
+2025-05-02 19:33:22,894 - INFO - Bot response: It's completely normal to be nervous about an upcoming presentation. Many people find public speaking challenging. Is there anything specific you're worried about?
+2025-05-02 19:34:02,697 - INFO - Conversation saved to conversation_history_20250502_193402.json
+2025-05-02 19:34:05,354 - INFO - User message: That was a really thoughtful gift. I appreciate it so much.
+2025-05-02 19:34:05,520 - INFO - Detected emotion: admiration (confidence: 0.79)
+2025-05-02 19:34:05,936 - INFO - Detected intents: ['gratitude']
+2025-05-02 19:34:05,936 - INFO - Triggered strong emotional response for: thoughtful gift
+2025-05-02 19:34:05,936 - INFO - Bot response: I'm happy you appreciated the gift! It's wonderful when someone's thoughtfulness is recognized. Was it for a special occasion?
+2025-05-02 19:34:44,839 - INFO - Conversation saved to conversation_history_20250502_193444.json
+2025-05-02 19:34:55,985 - INFO - User message: Honestly, I'm just feeling completely neutral about the whole situation.
+2025-05-02 19:34:56,152 - INFO - Detected emotion: disapproval (confidence: 0.45)
+2025-05-02 19:34:56,677 - INFO - Detected intents: ['question', 'statement']
+2025-05-02 19:34:56,677 - INFO - Using DialoGPT for response generation with emotion: disapproval
+2025-05-02 19:35:04,162 - INFO - Raw generated response: Thanks for your help, I appreciate it. I'll try to respond to the appropriate user.
+2025-05-02 19:35:04,162 - INFO - Bot response: Thanks for your help, I appreciate it. I'll try to respond to the appropriate user.
+2025-05-02 19:35:23,480 - INFO - Conversation saved to conversation_history_20250502_193523.json
+2025-05-02 19:35:42,117 - INFO - User message: Did you hear about the new project? I'm quite curious to learn more.
+2025-05-02 19:35:42,250 - INFO - Detected emotion: curiosity (confidence: 0.90)
+2025-05-02 19:35:42,706 - INFO - Detected intents: ['question', 'statement']
+2025-05-02 19:35:42,706 - INFO - Detected project curiosity scenario
+2025-05-02 19:35:42,706 - INFO - Bot response: Being curious about new projects shows engagement and interest. What have you heard about it so far?
+2025-05-02 19:36:11,083 - INFO - Conversation saved to conversation_history_20250502_193611.json
+2025-05-02 19:36:14,515 - INFO - User message: They completely ignored my suggestion in the meeting. I feel a bit disappointed.
+2025-05-02 19:36:14,676 - INFO - Detected emotion: disappointment (confidence: 0.93)
+2025-05-02 19:36:15,168 - INFO - Detected intents: ['help_request', 'statement', 'presentation']
+2025-05-02 19:36:15,168 - INFO - Detected meeting disappointment scenario
+2025-05-02 19:36:15,168 - INFO - Bot response: I'm sorry to hear you're disappointed. That's never a good feeling.
+2025-05-02 19:36:43,750 - INFO - Conversation saved to conversation_history_20250502_193643.json
+2025-05-02 19:36:55,036 - INFO - User message: Wow, that magic trick was absolutely amazing! I'm astonished.
+2025-05-02 19:36:55,190 - INFO - Detected emotion: surprise (confidence: 0.58)
+2025-05-02 19:36:55,599 - INFO - Detected intents: ['statement']
+2025-05-02 19:36:55,599 - INFO - Detected magic trick surprise scenario
+2025-05-02 19:36:55,599 - INFO - Bot response: That magic trick does sound amazing! I can tell how surprised you were. What part of it astonished you most?
+2025-05-02 19:37:23,868 - INFO - Conversation saved to conversation_history_20250502_193723.json
+2025-05-02 19:37:30,559 - INFO - User message: I'm so proud of my friend for achieving their goals
+2025-05-02 19:37:30,641 - INFO - Detected emotion: admiration (confidence: 0.76)
+2025-05-02 19:37:31,032 - INFO - Detected intents: ['statement']
+2025-05-02 19:37:31,032 - INFO - Triggered strong emotional response for: proud of my friend
+2025-05-02 19:37:31,032 - INFO - Bot response: It's wonderful that you feel proud of your friend's achievements! Supporting others is so important. What goals did they achieve?
