@@ -46,7 +46,7 @@ logging.basicConfig(level=logging.INFO,
                     filename='chatbot_debug.log')
 logger = logging.getLogger(__name__)
 
-# Color mapping for emotion categories 
+
 emotion_colors = {
     # Positive emotions
     "joy": "#FFD700",        # Gold
@@ -80,7 +80,6 @@ emotion_colors = {
     "default": "#A9A9A9"     # DarkGray
 }
 
-# Detect emotion function 
 def detect_emotion(text):
     """Detect emotion in the input text using your trained model"""
     inputs = emotion_tokenizer(text, return_tensors="pt", truncation=True, padding=True)
